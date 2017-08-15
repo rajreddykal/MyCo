@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.767 sec <<< FAILURE! - in TestSuite
+selectItemWithDD_Existingmandate(com.fonteva.automation.testcases.directDebit)  Time elapsed: 0.253 sec  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Raj Kalagiri\Downloads\Fonteva_Automation-master\Fonteva_Automation-master\drivers\chromedriver
+	at com.fonteva.automation.testcases.directDebit.selectItemWithDD_Existingmandate(directDebit.java:22)
+
+exit(com.fonteva.automation.testcases.directDebit)  Time elapsed: 0.254 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.fonteva.automation.testcases.directDebit.exit(directDebit.java:336)
+

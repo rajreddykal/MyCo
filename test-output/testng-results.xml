@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57281" started-at="2017-08-15T13:50:26Z" finished-at="2017-08-15T13:51:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57281" started-at="2017-08-15T13:50:26Z" finished-at="2017-08-15T13:51:23Z">
+      <class name="com.fonteva.automation.testcases.D3DS">
+        <test-method status="PASS" signature="enable_3DS_ForPaymentGatewaySupports_3DS()[pri:0, instance:com.fonteva.automation.testcases.D3DS@3e6fa38a]" name="enable_3DS_ForPaymentGatewaySupports_3DS" duration-ms="56660" started-at="2017-08-15T09:50:26Z" finished-at="2017-08-15T09:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enable_3DS_ForPaymentGatewaySupports_3DS -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:com.fonteva.automation.testcases.D3DS@3e6fa38a]" name="exit" is-config="true" duration-ms="607" started-at="2017-08-15T09:51:23Z" finished-at="2017-08-15T09:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.fonteva.automation.testcases.D3DS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

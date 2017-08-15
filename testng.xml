@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.fonteva.automation.testcases.directDebit">
+      <methods>
+        <include name="selectItemWithDD_Existingmandate"/>
+                       
+      </methods>
+        <!-- paste the method from down to run -->
+        
+        <!-- <include name="selectItemWithDD_Existingmandate"/> -->
+        <!-- <include name="selectItemWithDD_Newmandate"/> -->
+        <!--  <include name="selectSubscriptionWithDD_Existingmandate"/> -->
+        <!-- <include name="selectItemWithDD_Newmandate"/> -->
+        <!-- <include name="selectSubscriptionWithDD_Newmandate"/> -->
+        <!-- <include name="selectDDItems_Creditcard"/> -->
+        <!-- <include name="click_Receipt"/> -->
+        <!-- <include name="selectItems_NewMandate"/> -->
+        
+        <!-- end of test cases -->
+                
+    </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
